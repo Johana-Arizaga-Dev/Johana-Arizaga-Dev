@@ -63,8 +63,6 @@ He trabajado en la creación de **sistemas de gestión y mantenimiento empresari
 
 ---
 
-## 📈 En progreso...
-![Profile Stats](/progresoBar.html)
 
 Actualmente aprendiendo **TypeScript**, **React** y **IA aplicada al desarrollo web** 🤖
 
