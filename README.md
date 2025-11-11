@@ -4,7 +4,7 @@
 Apasionada por la innovación tecnológica, la experiencia de usuario y el diseño funcional.  
 
 <a href="https://innovajoh.blogspot.com/" target="_blank">
-   <img src="./images/Banner2.jpeg" width="100%" style="border-radius: 12px; box-shadow: 0 5px 18px rgba(0,0,0,0.3);" />
+   <img src="./images/Banner2.jpg" width="100%" style="border-radius: 12px; box-shadow: 0 5px 18px rgba(0,0,0,0.3);" />
 </a>
 
 ---
