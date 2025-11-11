@@ -74,7 +74,7 @@ Actualmente aprendiendo **TypeScript**, **React** y **IA aplicada al desarrollo 
 📍 **Ubicación:** Guadalajara, Jalisco  
 📞 **Tel:** +52 33 25 32 56 88  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://fs.blabigo.org/s/CoHvx4Qg)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johana-lizbeth-arizaga-avalos-944b4a304/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://innovajoh.blogspot.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Johana-Arizaga-Dev)
 
